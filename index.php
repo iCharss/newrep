@@ -57,8 +57,7 @@ Flight::route('/about', function() {
  otros, asegurando el cumplimiento de metas y la excelencia en cada proyecto.</p>
         <h1>Experiencias</h1>
         <p>Tecnicatura Superior en  Desarrollo de software. </br>
- Desarrollador de Software con formación integral en diseño, implementación y gestión de soluciones tecnológicas innovadoras. Experto en 
-una amplia variedad de lenguajes y tecnologías, incluyendo JavaScript, HTML, CSS, PHP, SQL, Java, Angular, React y Node.js. 
+Experto en una amplia variedad de lenguajes y tecnologías, incluyendo JavaScript, HTML, CSS, PHP, SQL, Java, Angular, React y Node.js. 
 Dominio de metodologías ágiles para optimizar procesos de desarrollo y asegurar entregas eficientes y de alta calidad.
 I.S.F.T N°232, Burzaco. Mar 2021 - Nov 2024.</p>
         <a href='/'>Volver al inicio</a>
